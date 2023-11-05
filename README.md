@@ -1,5 +1,5 @@
-# custom-sites
-H2jose Custom Sites
+# Custom Sites
+By H2jose 
 
 <https://www.yamahapr.com/>\
 NuxtJs Quasar Frontend
